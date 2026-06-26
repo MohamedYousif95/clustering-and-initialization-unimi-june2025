@@ -67,7 +67,3 @@ Figures are saved automatically to `report/figures/`.
 - `numpy` and `matplotlib` are used for computation and plotting.
 - `scikit-learn` is used **only** as a utility: `fetch_openml` for MNIST and `PCA` for dimensionality reduction. The clustering algorithms are implemented from scratch.
 - All experiments seed `numpy.random.default_rng` and pass the generator explicitly for full reproducibility.
-
-## Academic Integrity Declaration
-
-*I declare that this material, which I now submit for assessment, is entirely my own work and has not been taken from the work of others, save and to the extent that such work has been cited and acknowledged within the text of my work. I understand that plagiarism, collusion, and copying are grave and serious offences in the university and accept the penalties that would be imposed should I engage in plagiarism, collusion or copying. This assignment, or any part of it, has not been previously submitted by me or any other person for assessment on this or any other course of study.*
