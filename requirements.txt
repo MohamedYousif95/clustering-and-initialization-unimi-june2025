@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4   # dataset utilities and PCA only — not for clustering
+jupyter>=1.0
+notebook>=7.0
+jupyterlab>=4.0
